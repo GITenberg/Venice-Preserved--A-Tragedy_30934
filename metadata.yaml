@@ -1,0 +1,29 @@
+_repo: Venice-Preserved--A-Tragedy_30934
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Otway, Thomas
+    birthdate: 1652
+    deathdate: 1685
+    gutenberg_agent_id: '24764'
+    url: http://www.gutenberg.org/2009/agents/24764
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Otway
+description: ''
+gutenberg_issued: '2010-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30934'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Venice (Italy) -- History -- 1508-1797 -- Drama'
+- !lcc 'PR'
+- !lcsh 'English drama -- Restoration, 1660-1700'
+- !lcsh 'Tragedies'
+title: 'Venice Preserved: A Tragedy'
+url: http://www.gutenberg.org/ebooks/30934
