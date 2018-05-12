@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/24764
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Otway
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30934#Venice-Preserved--A-Tragedy
 gutenberg_issued: '2010-01-11'
 gutenberg_type: Text
 identifiers:
